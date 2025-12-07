@@ -9,13 +9,13 @@
             <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/models/Worker.java</file>
             <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/models/Guide.java</file>
             <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/models/Tourist.java</file>
-            <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/models/Schedule.java</file>
             <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/services/AdminService.java</file>
             <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/services/WorkerService.java</file>
             <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/services/TouristService.java</file>
             <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/services/GuideService.java</file>
             <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/services/ScheduleService.java</file>
             <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/controllers/MainMenu.java</file>
+            <file>file:/C:/pendejito/oop-activity/TourGuideSchedulingSystem/src/models/Schedule.java</file>
         </group>
     </open-files>
 </project-private>

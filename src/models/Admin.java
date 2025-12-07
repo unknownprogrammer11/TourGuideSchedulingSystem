@@ -12,4 +12,9 @@ public class Admin extends Person {
 
     public String getUsername() { return username; }
     public String getPassword() { return password; }
+    
+    @Override
+public String displayInfo() {
+    return "Admin: " + getFullName() + " | Username: " + getUsername();
+}
 }

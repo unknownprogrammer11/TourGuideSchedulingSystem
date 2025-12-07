@@ -19,4 +19,9 @@ public abstract class Person {
     public void setAddress(String ad) { this.address = ad; }
 
     public String getFullName() { return firstName + " " + lastName; }
+    
+   public String displayInfo() {
+    return "Person: " + getFullName() + " | Address: " + getAddress();
+}
+
 }
